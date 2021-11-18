@@ -18,7 +18,7 @@ python main.py
 
 ![rawdata_scatterplot_A-D](./EP05_result/rawdata_scatterplot_A-D.png)
 
-2. result of nestANOVA analysis
+2. report of nestANOVA analysis
 
 ![precision](./images/precision.png)
 
