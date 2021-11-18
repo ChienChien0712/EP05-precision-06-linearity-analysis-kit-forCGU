@@ -15,13 +15,19 @@ python main.py
 ## output of precision
 
 1. laboratory data
+
 ![rawdata_scatterplot_A-D](./EP05_result/rawdata_scatterplot_A-D.png)
+
 2. result of nestANOVA analysis
+
 ![precision](./images/precision.png)
 
 ## graph output of linearity
 
 1. 1 to 4 degree regression to fit laboratory data
+
 ![EP06_nonlinearity_rate_0.05](./EP06_result/EP06_nonlinearity_rate_0.05.png)
+
 2. acceptable nonlinearity range of laboratory data
+
 ![regression_4th](./EP06_result/regression_4th.png)
